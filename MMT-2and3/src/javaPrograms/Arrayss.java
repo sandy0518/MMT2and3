@@ -1,8 +1,5 @@
 package javaPrograms;
 
-import java.util.Arrays;
-import java.util.Scanner;
-
 public class Arrayss {
 	public static void main(String[] args) {
 		int[]a= {1,6,2,4,6,3};
